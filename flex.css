@@ -35,8 +35,8 @@
 }
 
 img{
-    width: 220px;
-    height: 260px;
+    width: 260px;
+    height: 280px;
     border-radius: 25px;
     box-shadow: 1px 1px 5px lightpink;
 }
@@ -50,15 +50,25 @@ img{
      outline: 0px;
      text-align: center;
      text-shadow: .2px .5px 1px black;
- 
+    margin-top: 10px;
      font-family: Cardo, Arial; font-size: 15px;
-    width: 220px;
+    width: 260px;
      height: 260px;
      box-sizing: border-box;
      border-radius: 25px;
      box-shadow: 1px 1px 5px lightpink;   
  }
 
+ .small{
+     background-color:  rgb(96, 231, 231);
+     border-radius: 10px;
+     padding-top: 5px;
+     padding-bottom:.5px;
+ }
+
+ .c1{
+     font-size: 14px;
+ }
  
 .top1 , .top2 , .top3, .top4 ,.top5 {
     padding: 10px;
